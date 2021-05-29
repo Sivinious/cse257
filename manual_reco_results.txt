@@ -1,0 +1,181 @@
+ Evaluation using 160 episodes: mean reward 7.84375
+
+ep_len: mean = 49.1875, std = 33.7478124291042
+ep_avg_ctr: mean = 0.17657322908096212, std = 0.13357718286553286
+Evaluating test
+
+
+
+
+
+ep_len: mean = 47.7, std = 35.837619898648406
+ep_avg_ctr: mean = 0.1887162057267254, std = 0.14126304025809752
+Evaluating test
+ Evaluation using 160 episodes: mean reward 8.26875
+
+ep_len: mean = 49.25625, std = 36.92107238336259
+ep_avg_ctr: mean = 0.16138212842733277, std = 0.09162599583671359
+
+
+
+
+
+
+Evaluation using 160 episodes: mean reward 8.40000
+
+ep_len: mean = 49.7125, std = 36.888580126510696
+ep_avg_ctr: mean = 0.18049180187846162, std = 0.12294832816711755
+Evaluating test
+ Evaluation using 160 episodes: mean reward 8.36250
+
+ep_len: mean = 50.74375, std = 38.57950344337651
+ep_avg_ctr: mean = 0.1721551375988932, std = 0.11605988369806677
+
+
+
+
+
+Evaluating train
+ Evaluation using 160 episodes: mean reward 8.31875
+
+ep_len: mean = 50.46875, std = 36.851547096933395
+ep_avg_ctr: mean = 0.18962525070865227, std = 0.1452967582441499
+Evaluating test
+ Evaluation using 161 episodes: mean reward 7.51553
+
+ep_len: mean = 47.8944099378882, std = 37.02552459934627
+ep_avg_ctr: mean = 0.177244004213809, std = 0.15226647328461265
+Updates 2220, num timesteps 4548608, FPS 989
+
+
+
+
+
+
+
+
+
+
+
+Evaluating train
+ Evaluation using 160 episodes: mean reward 8.28125
+
+ep_len: mean = 50.84375, std = 34.6320925723165
+ep_avg_ctr: mean = 0.17036228181155258, std = 0.1038277125329006
+Evaluating test
+ Evaluation using 160 episodes: mean reward 8.41250
+
+ep_len: mean = 53.16875, std = 34.143304957743915
+ep_avg_ctr: mean = 0.17139556764943537, std = 0.11693483464709137
+Updates 2440, num timesteps 4999168, FPS 993
+
+
+
+
+
+
+
+
+Evaluating train
+ Evaluation using 160 episodes: mean reward 9.12500
+
+ep_len: mean = 52.15, std = 38.00036184038252
+ep_avg_ctr: mean = 0.17808017820293293, std = 0.09783836129291054
+Evaluating test
+ Evaluation using 160 episodes: mean reward 7.46875
+
+ep_len: mean = 47.075, std = 34.116445814299006
+ep_avg_ctr: mean = 0.17201731993048772, std = 0.12559264031649547
+Updates 2520, num timesteps 5163008, FPS 917
+
+
+
+
+
+
+
+
+
+Evaluating train
+ Evaluation using 160 episodes: mean reward 7.38125
+
+ep_len: mean = 42.7375, std = 32.62063907635778
+ep_avg_ctr: mean = 0.1780278464408834, std = 0.119066695247241
+Evaluating test
+ Evaluation using 160 episodes: mean reward 7.90000
+
+ep_len: mean = 49.91875, std = 35.97898203726031
+ep_avg_ctr: mean = 0.18217287050724643, std = 0.1481074434208454
+Updates 2580, num timesteps 5285888, FPS 997
+ Last 100 training episodes: mean/median reward 9.2/9.0, min/max reward 0.0/28.0
+
+
+
+
+
+
+
+
+
+
+
+Evaluating train
+ Evaluation using 160 episodes: mean reward 8.37500
+
+ep_len: mean = 48.75625, std = 36.461066028539264
+ep_avg_ctr: mean = 0.18209052614911642, std = 0.15381501629918526
+Evaluating test
+ Evaluation using 160 episodes: mean reward 7.59375
+
+ep_len: mean = 47.725, std = 36.28066806165509
+ep_avg_ctr: mean = 0.1661739526587592, std = 0.11433814866843388
+Updates 3040, num timesteps 6227968, FPS 884
+
+
+
+
+
+
+
+
+Evaluating train
+ Evaluation using 160 episodes: mean reward 8.76250
+
+ep_len: mean = 49.5375, std = 36.985113136909554
+ep_avg_ctr: mean = 0.1781516952531639, std = 0.09030007478829608
+Evaluating test
+ Evaluation using 160 episodes: mean reward 7.75000
+
+ep_len: mean = 50.09375, std = 35.82069877790633
+ep_avg_ctr: mean = 0.17055238246633952, std = 0.1232996967195245
+
+
+
+
+
+
+
+
+
+
+
+
+Evaluating train
+ Evaluation using 160 episodes: mean reward 8.11250
+
+ep_len: mean = 48.075, std = 34.605554106241385
+ep_avg_ctr: mean = 0.16140106141172988, std = 0.07638820032190342
+
+Evaluating test
+ Evaluation using 160 episodes: mean reward 8.08125
+
+ep_len: mean = 51.96875, std = 34.41591599009824
+ep_avg_ctr: mean = 0.171482626720917, std = 0.11306584512401889
+
+
+
+
+
+
+
+
